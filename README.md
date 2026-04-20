@@ -28,34 +28,17 @@ Here is what I'm currently vibing with and building:
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  
-  ### 🔹 Programming Languages
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## 🧠 Skill Matrix & Proficiency
 
-  ### 🔹 Frontend & Mobile (The Stepping Stones)
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-  ### 🔹 Tools, Data & Environment
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" title="My go-to for solving logic problems" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="For exploring networking protocols" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  
-</div>
+| Domain | Level | Expertise |
+| :--- | :--- | :--- |
+| **Data Analytics** | `██████▒▒▒▒` | Python, Pandas, NumPy, Matplotlib |
+| **Frontend Development** | `██████▒▒▒▒` | React, JavaScript, HTML/CSS, Tailwind CSS |
+| **Mobile Development** | `██████▒▒▒▒` | Flutter, Dart |
+| **Backend / BaaS** | `█████▒▒▒▒▒` | Firebase, Node.js, REST APIs |
+| **AI / Machine Learning** | `█████▒▒▒▒▒` | Scikit-learn, TensorFlow (Learning) |
+| **Tools & Environment** | `██████▒▒▒▒` | Git, Vim, Wireshark, Linux |
 
 ---
 
-<div align="center">
-  <i>"No man is free who is not master of himself." — Epictetus</i> <br><br>
-  Let's connect and build something awesome!
-</div>
