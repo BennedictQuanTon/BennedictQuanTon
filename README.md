@@ -23,10 +23,8 @@
 
 Here is what I'm currently vibing with and building:
 
-* 🏆 **Bach Khoa Innovation (BKI) 2026:** Pitching **Varichrom**, a 2D physics simulation platform built with React and Tailwind that allows students to interactively explore pendulums, magnets, and kinematics.
+* 🏆 **Bach Khoa Innovation (BKI) 2026:** Pitching **Varichrom**, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.
 * 📊 **Datathon 2026:** Teaming up with my HCMUT AI squad to tackle intense data challenges and extract actionable insights.
-* 🍲 **Bữa Nay (TODAY/2DAY):** Developing an AI-driven nutrition application using Flutter and Firebase to track food expiration dates and generate smart recipe recommendations.
-* 🗂️ **Automation:** Wrote a Python-based Automatic File Organizer to declutter file systems efficiently.
 
 ---
 
