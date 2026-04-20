@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Future%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Vibe%20Coder&descAlignY=65&descSize=22&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=1st-Year%20AI%20Student%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Builder&descAlignY=65&descSize=22&animation=twinkling" width="100%" />
 
   <br />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Bridging+Web%2FMobile+and+Data+Analytics;Building+Intelligent+Solutions;Fluent+in+Vibecoding...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Bridging+Web%2FMobile+and+Data+Analytics;Building+Intelligent+Solutions;Always+Learning+%26+Building...)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -15,13 +15,13 @@
 * 🎓 **Education:** 1st-year AI Student (Joint program: University of Technology Sydney & HCMUT).
 * 🎯 **Current Focus:** Bridging theoretical mathematics, machine learning, and intuitive user interfaces.
 * 🧠 **Interests:** Beyond coding, I'm fascinated by Stoicism, public transportation network systems, and eco-friendly urban design.
-* 💬 **Philosophy:** Whether it's analyzing a complex dataset or just pure *vibecoding* a new script, I focus on building practical, problem-solving tools.
+* 💬 **Philosophy:** Whether it's analyzing a complex dataset or writing a new script, I focus on learning continuously and building practical, problem-solving tools.
 
 ---
 
 ## 🚀 Current Quests & Projects
 
-Here is what I'm currently vibing with and building:
+Here is what I'm currently working on to level up my skills:
 
 * 🏆 **Bach Khoa Innovation (BKI) 2026:** Pitching **Varichrom**, a 2D physics simulation platform built with React and Tailwind that allows students to interactively explore pendulums, magnets, and kinematics.
 * 📊 **Datathon 2026:** Teaming up with my HCMUT AI squad to tackle intense data challenges and extract actionable insights.
