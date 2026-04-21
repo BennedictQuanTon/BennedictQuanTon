@@ -3,7 +3,7 @@
 
   <br />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Bridging+Web%2FMobile+and+Data+Analytics;Building+Intelligent+Solutions;Fluent+in+Vibecoding...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;)](https://git.io/typing-svg)
 </div>
 
 ---
