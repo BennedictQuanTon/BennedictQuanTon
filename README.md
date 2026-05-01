@@ -25,10 +25,9 @@ Here is what I'm currently vibing with and building:
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏆 Varichrom (BKI 2026)</h3>
+      <h3 align="center">🏆 Bach Khoa Innovation 2026</h3>
       <div align="center">
         <a href="LINK_REPO_HOAC_WEBSITE_CUA_BAN" target="_blank">
-          <img src="https://via.placeholder.com/600x300/1e293b/3b82f6?text=Varichrom+Preview" width="100%" alt="Varichrom Project" style="border-radius: 8px;">
         </a>
       </div>
       <br>
@@ -38,7 +37,6 @@ Here is what I'm currently vibing with and building:
       <h3 align="center">📊 Datathon 2026</h3>
       <div align="center">
         <a href="LINK_REPO_CUA_BAN" target="_blank">
-          <img src="https://via.placeholder.com/600x300/1e293b/06b6d4?text=Datathon+2026" width="100%" alt="Datathon Project" style="border-radius: 8px;">
         </a>
       </div>
       <br>
