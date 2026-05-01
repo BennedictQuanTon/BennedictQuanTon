@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Future%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C&descSize=22&animation=twinkling" width="100%" />
-
   <br />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;)](https://git.io/typing-svg)
@@ -23,11 +22,32 @@
 
 Here is what I'm currently vibing with and building:
 
-* 🏆 **Bach Khoa Innovation (BKI) 2026:** Pitching **Varichrom**, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.
-* 📊 **Datathon 2026:** Teaming up with my HCMUT AI squad to tackle intense data challenges and extract actionable insights.
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 Varichrom (BKI 2026)</h3>
+      <div align="center">
+        <a href="LINK_REPO_HOAC_WEBSITE_CUA_BAN" target="_blank">
+          <img src="https://via.placeholder.com/600x300/1e293b/3b82f6?text=Varichrom+Preview" width="100%" alt="Varichrom Project" style="border-radius: 8px;">
+        </a>
+      </div>
+      <br>
+      <p>Pitching <strong>Varichrom</strong>, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Datathon 2026</h3>
+      <div align="center">
+        <a href="LINK_REPO_CUA_BAN" target="_blank">
+          <img src="https://via.placeholder.com/600x300/1e293b/06b6d4?text=Datathon+2026" width="100%" alt="Datathon Project" style="border-radius: 8px;">
+        </a>
+      </div>
+      <br>
+      <p>Teaming up with my HCMUT AI squad to tackle intense data challenges and extract actionable insights. Building models, analyzing datasets, and pushing the boundaries of data-driven decision making in a competitive environment.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-
 
 ## 🧠 Skill Matrix & Proficiency
 
@@ -39,6 +59,3 @@ Here is what I'm currently vibing with and building:
 | **Backend / BaaS** | `█████▒▒▒▒▒` | Firebase, Node.js, REST APIs |
 | **AI / Machine Learning** | `█████▒▒▒▒▒` | Scikit-learn, TensorFlow (Learning) |
 | **Tools & Environment** | `██████▒▒▒▒` | Git, Vim, Wireshark, Linux |
-
----
-
