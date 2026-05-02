@@ -55,5 +55,5 @@ Here is what I'm currently vibing with and building:
 | **Frontend Development** | `██████▒▒▒▒` | React, JavaScript, HTML/CSS, Tailwind CSS |
 | **Mobile Development** | `██████▒▒▒▒` | Flutter, Dart |
 | **Backend / BaaS** | `█████▒▒▒▒▒` | Firebase, Node.js, REST APIs |
-| **AI / Machine Learning** | `█████▒▒▒▒▒` | Scikit-learn, TensorFlow (Learning) |
+| **AI / Machine Learning / Framework** | `█████▒▒▒▒▒` | Langchain, Scikit-learn, TensorFlow (Learning) |
 | **Tools & Environment** | `██████▒▒▒▒` | Git, Vim, Wireshark, Linux |
