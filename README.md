@@ -28,7 +28,6 @@ Here is what I'm currently vibing with and building:
       <h3 align="center">🤖 BKAi — Agentic RAG Admissions Consultant</h3>
       <div align="center">
         <a href="LINK_REPO_BKAI_CUA_BAN" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square" alt="Status"/>
         </a>
       </div>
       <br>
