@@ -62,9 +62,8 @@ Here is what I'm currently vibing with and building:
 
 | Domain | Expertise / Technologies |
 | :--- | :--- |
-| **AI / ML / LLMs** | LangChain, LangGraph, Ollama (Qwen, Llama), Scikit-learn, TensorFlow |
+| **AI / ML / LLMs** | LangChain, LangGraph, Ollama (Qwen, Llama)|
 | **Backend & Databases** | Python, FastAPI, Node.js, Firebase, REST APIs, Redis, ChromaDB |
 | **Frontend Development** | React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js |
-| **Data Analytics** | Pandas, NumPy, Matplotlib |
-| **Mobile Development** | Flutter, Dart |
-| **Tools & Environment** | Git, Linux, WebSockets, Vim, Wireshark |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Tools & Environment** | Git, WebSockets, Wireshark |
