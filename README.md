@@ -27,7 +27,7 @@ Here is what I'm currently vibing with and building:
     <td width="100%" colspan="2" valign="top">
       <h3 align="center">🤖 BKAi — Agentic RAG Admissions Consultant</h3>
       <div align="center">
-        <a href="LINK_REPO_BKAI_CUA_BAN" target="_blank">
+        <a href="https://github.com/BennedictQuanTon/BKAi-Admission-System" target="_blank">
         </a>
       </div>
       <br>
@@ -45,7 +45,7 @@ Here is what I'm currently vibing with and building:
       <p>Pitching <strong>Varichrom</strong>, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Datathon 2026</h3>
+      <h3 align="center">📊 VinUni Datathon 2026</h3>
       <div align="center">
         <a href="LINK_REPO_CUA_BAN" target="_blank">
         </a>
