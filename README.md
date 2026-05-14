@@ -25,7 +25,7 @@ Here is what I'm currently vibing with and building:
 <table bordercolor="#30363d">
   <tr>
     <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🤖 BKAi — Agentic RAG Admissions Consultant</h3>
+      <h3 align="center">🤖 BKAi — Agentic RAG Admissions System</h3>
       <div align="center">
         <a href="https://github.com/BennedictQuanTon/BKAi-Admission-System" target="_blank">
         </a>
