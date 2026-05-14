@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Future%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C&descSize=22&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C&descSize=22&animation=twinkling" width="100%" />
   <br />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;)](https://git.io/typing-svg)
