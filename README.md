@@ -66,4 +66,4 @@ Here is what I'm currently vibing with and building:
 | **Backend & Databases** | Python, FastAPI, Node.js, Firebase, REST APIs, Redis, ChromaDB |
 | **Frontend Development** | React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js |
 | **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Tools & Environment** | Git, WebSockets, Wireshark |
+| **Tools & Environment** | Git, WebSockets |
