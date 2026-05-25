@@ -67,3 +67,4 @@ Here is what I'm currently vibing with and building:
 | **Frontend Development** | React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js |
 | **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Tools & Environment** | Git, WebSockets |
+| **Monitoring** | Grafana |
