@@ -42,7 +42,7 @@ Here is what I'm currently vibing with and building:
         </a>
       </div>
       <br>
-      <p>Pitching <strong>Varichrom</strong>, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.</p>
+      <p>Pitching <strong>MorPhysics</strong>, an AI-integrated web application designed to dynamically generate interactive 2D physics simulations. It transforms static lessons into hands-on virtual experiments, allowing students to interact with and explore concepts like kinematics, pendulums, and magnets in real-time.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 VinUni Datathon 2026</h3>
