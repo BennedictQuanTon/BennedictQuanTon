@@ -19,7 +19,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ## 🚀 Featured Quests & Projects
 
-### ⛅ [WeatherRise](https://github.com/BennedictQuanTon/WeatherRise-2026) ━ *Top 10 Finalist VN AI Open Hackathon*
+### ⛅ [WeatherRise](https://github.com/BennedictQuanTon/WeatherRise-2026) ━ *Top 10 Finalist Vietnam AI Open Hackathon*
 <img src="https://img.shields.io/badge/Qwen%203.5-1A1B27?style=flat-square&logo=alibabadotcom&logoColor=white" /> <img src="https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/MCP%20Server-4B32C3?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-EF4056?style=flat-square" />
 
 > **Role: Co-founder & Team Lead.** An enterprise-focused multi-agent AI system predicting weather-related risks across specific domains (tourism, construction, agriculture).
@@ -30,7 +30,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) ━ *Multi-Agentic RAG*
+### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) 
 <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
 > **Role: Solo Developer.** A 100% local, highly scalable multi-agent system tailored to automate university admissions consulting.
@@ -51,7 +51,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 📊 [VinUni Datathon 2026](https://github.com/BennedictQuanTon/VinUni-Datathon2026) ━ *Team Datdy*
+### 📊 [Team Datdy](https://github.com/BennedictQuanTon/VinUni-Datathon2026) ━ *VinUni Datathon 2026*
 <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Predictive%20Modeling-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
 
 > **Role: Data Analyst.** Competed in the largest academic AI & Data Science competition organized by VinTelligence.
