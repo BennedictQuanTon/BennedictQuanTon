@@ -19,66 +19,45 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ## 🚀 Featured Quests & Projects
 
-<table bordercolor="#30363d">
-  <!-- WEATHERRISE -->
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">⛅ WeatherRise — Top 10 Finalist Vietnam AI Open Hackathon</h3>
-      <div align="center">
-        <em>May 2026 – Jun 2026 | Role: Co-founder & Team Lead</em><br>
-        <a href="https://github.com/BennedictQuanTon/WeatherRise-2026" target="_blank"><strong>[ View Repository ]</strong></a>
-      </div>
-      <br>
-      <p>An enterprise-focused multi-agent AI system that helps organizations analyze, predict, and act on weather-related risks. Specialized agents handle specific domains (tourism, construction, agriculture) to gather context, evaluate impacts, and generate practical recommendations.</p>
-      <ul>
-        <li><strong>AI Models & Infra:</strong> Qwen 3.5-27B (via vLLM) & Nemotron 3 Super 120B (via NVIDIA NIM), containerized with Docker, powered by an NVIDIA 8x H200 GPU cluster.</li>
-        <li><strong>Backend & Data Layer:</strong> FastAPI, Nginx, PostgreSQL, PostGIS, Qdrant (Vector DB), and Redis.</li>
-        <li><strong>Frontend & Interface:</strong> Next.js PWA and WebSockets for real-time streaming.</li>
-        <li><strong>Tooling & Weather Intelligence:</strong> MCP Server, Nemo Agent Toolkit, Apify/Google Maps, Overpass OSM, Earth2Studio, Open-Meteo, Tomorrow.io.</li>
-      </ul>
-    </td>
-  </tr>
+### ⛅ [WeatherRise](https://github.com/BennedictQuanTon/WeatherRise-2026) ━ *Top 10 Finalist VN AI Open Hackathon*
+<img src="https://img.shields.io/badge/Qwen%203.5-1A1B27?style=flat-square&logo=alibabadotcom&logoColor=white" /> <img src="https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/MCP%20Server-4B32C3?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-EF4056?style=flat-square" />
 
-  <!-- BKAI -->
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🤖 BKAi — Multi-Agentic RAG Admission Systems</h3>
-      <div align="center">
-        <em>Feb 2026 – May 2026 | Role: Solo Developer</em><br>
-        <a href="https://github.com/BennedictQuanTon/BKAi-Admission-System" target="_blank"><strong>[ View Repository ]</strong></a>
-      </div>
-      <br>
-      <p>A 100% local, highly scalable Multi-Agent RAG system tailored for university admissions consulting using <strong>LangGraph</strong> and <strong>FastAPI</strong>.</p>
-      <ul>
-        <li>Implemented a Hybrid Search Engine (ChromaDB, BM25, Cross-Encoder Reranker) to effectively eliminate LLM hallucinations.</li>
-        <li>Achieved ultra-low latency responses (< 0.1s) by integrating a Redis Semantic Cache.</li>
-        <li>Conducted pilot testing with high school students using 100 practical queries, achieving an 85/100 success ratio and an estimated 81% accurate response rate.</li>
-        <li>Engineered dynamic scalability, ensuring smooth transitions to Qdrant for enterprise-level data loads. Dashboard monitored via Vite/Tailwind.</li>
-      </ul>
-    </td>
-  </tr>
+> **Role: Co-founder & Team Lead.** An enterprise-focused multi-agent AI system predicting weather-related risks across specific domains (tourism, construction, agriculture).
 
-  <!-- MORPHYSICS & DATATHON -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 MorPhysics — Bach Khoa Innovation 2026</h3>
-      <div align="center">
-        <em>Feb 2026 – Present | Role: Team Lead & Frontend Dev</em>
-      </div>
-      <br>
-      <p>A Virtual Lab AI platform that transforms textual system descriptions into interactive simulations for learning and analysis. It combines AI reasoning, system modeling, and real-time visualization to create an engaging, feedback-driven educational experience.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 VinUni Datathon 2026 — Team Datdy</h3>
-      <div align="center">
-        <em>Apr 2026 – May 2026 | Role: Data Analyst</em><br>
-        <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026" target="_blank"><strong>[ View Repository ]</strong></a>
-      </div>
-      <br>
-      <p>Participated in the largest academic competition in Data Science and AI organized by VinTelligence. Focused on analyzing complex data systems, building predictive models, and transforming insights into actionable decision-making solutions for real-world business contexts.</p>
-    </td>
-  </tr>
-</table>
+* **The Engine:** Orchestrated LLMs on an **NVIDIA 8x H200 GPU cluster** via vLLM and NVIDIA NIM.
+* **The Agents:** Deployed **MCP Server** & Nemo Agent Toolkit to gather context and generate practical decisions.
+* **The Data Flow:** Handled complex real-time telemetry with PostgreSQL, PostGIS, WebSockets, and Earth2Studio APIs.
+
+---
+
+### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) ━ *Multi-Agentic RAG*
+<img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+> **Role: Solo Developer.** A 100% local, highly scalable multi-agent system tailored to automate university admissions consulting.
+
+* **Architecture:** Implemented a Hybrid Search Engine (ChromaDB + BM25 + Cross-Encoder) to successfully eliminate LLM hallucinations.
+* **Performance:** Achieved ultra-low latency responses (**< 0.1s**) by engineering a Redis Semantic Cache system.
+* **Real-World Impact:** Validated via pilot testing with high school students, achieving an **85/100 success ratio** on practical queries.
+
+---
+
+### 🔬 [MorPhysics](LINK_REPO_CUA_BAN) ━ *Bach Khoa Innovation 2026*
+<img src="https://img.shields.io/badge/AI%20Reasoning-000000?style=flat-square" /> <img src="https://img.shields.io/badge/System%20Modeling-0052CC?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend%20Dev-3178C6?style=flat-square" />
+
+> **Role: Team Lead & Frontend Developer.** A Virtual Lab AI platform transforming static text descriptions into dynamic, interactive physics simulations.
+
+* **Innovation:** Combines LLM reasoning with real-time visualization to generate interactive setups (kinematics, pendulums).
+* **Execution:** Architected an intuitive UI that delivers a hands-on, feedback-driven educational experience.
+
+---
+
+### 📊 [VinUni Datathon 2026](https://github.com/BennedictQuanTon/VinUni-Datathon2026) ━ *Team Datdy*
+<img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Predictive%20Modeling-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
+
+> **Role: Data Analyst.** Competed in the largest academic AI & Data Science competition organized by VinTelligence.
+
+* **The Challenge:** Analyzed complex data systems to solve problems tied directly to real-world business contexts.
+* **The Solution:** Built robust predictive models to extract actionable insights and drive data-driven decision making.
 
 ---
 
