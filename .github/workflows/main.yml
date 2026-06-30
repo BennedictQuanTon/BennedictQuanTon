@@ -1,0 +1,43 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates every day at midnight UTC
+  workflow_dispatch: # Allows you to trigger the update manually
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p github-metrics
+
+      - name: Generate Stats Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=BennedictQuanTon&show_icons=true&hide_border=true&theme=radical&count_private=true'
+          path: github-metrics/stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate Top Languages Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=BennedictQuanTon&layout=compact&hide_border=true&theme=radical'
+          path: github-metrics/top-langs.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics/
+          git commit -m "chore: auto-update github stats" || echo "No changes to commit"
+          git push
