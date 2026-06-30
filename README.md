@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Aspiring%20Agentic%20AI%20Engineer%20%7C%20AI%20Major&descSize=22&animation=twinkling" width="100%" />
-  <br />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Aspiring+Agentic+AI+Engineer;Building+Autonomous+Systems;)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Aspiring%20Agentic%20AI%20Engineer%20%7C%20AI%20Major&descSize=22&animation=twinkling" width="100%" />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Aspiring+Agentic+AI+Engineer;Building+Autonomous+Systems;" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -30,7 +31,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) 
+### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) 
 <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
 > **Role: Solo Developer.** A 100% local, highly scalable multi-agent system tailored to automate university admissions consulting.
@@ -64,47 +65,45 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## 🧠 Skills & Stats
 
 <table width="100%" border="0" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Tech Stack</h3>
-      <table>
-        <tr>
-          <th align="left">Domain</th>
-          <th align="left">Expertise / Technologies</th>
-        </tr>
-        <tr>
-          <td><strong>AI / ML / LLMs</strong></td>
-          <td>LangChain, LangGraph, Ollama, Nemotron 3, Qwen</td>
-        </tr>
-        <tr>
-          <td><strong>Backend & Databases</strong></td>
-          <td>Python, FastAPI, Node.js, REST APIs, Redis, Qdrant</td>
-        </tr>
-        <tr>
-          <td><strong>Frontend Development</strong></td>
-          <td>React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js</td>
-        </tr>
-        <tr>
-          <td><strong>Data Analytics</strong></td>
-          <td>Pandas, NumPy, Matplotlib, Seaborn</td>
-        </tr>
-        <tr>
-          <td><strong>Tools & Environment</strong></td>
-          <td>Git, WebSockets, Nemo Agent Toolkit, cuOpt</td>
-        </tr>
-        <tr>
-          <td><strong>Monitoring</strong></td>
-          <td>Grafana</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>    
-
----
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tech Stack</h3>
+      <table>
+        <tr>
+          <th align="left">Domain</th>
+          <th align="left">Expertise / Technologies</th>
+        </tr>
+        <tr>
+          <td><strong>AI / ML / LLMs</strong></td>
+          <td>LangChain, LangGraph, Ollama, Nemotron 3, Qwen</td>
+        </tr>
+        <tr>
+          <td><strong>Backend & Databases</strong></td>
+          <td>Python, FastAPI, Node.js, REST APIs, Redis, Qdrant</td>
+        </tr>
+        <tr>
+          <td><strong>Frontend Development</strong></td>
+          <td>React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js</td>
+        </tr>
+        <tr>
+          <td><strong>Data Analytics</strong></td>
+          <td>Pandas, NumPy, Matplotlib, Seaborn</td>
+        </tr>
+        <tr>
+          <td><strong>Tools & Environment</strong></td>
+          <td>Git, WebSockets, Nemo Agent Toolkit, cuOpt</td>
+        </tr>
+        <tr>
+          <td><strong>Monitoring</strong></td>
+          <td>Grafana</td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
