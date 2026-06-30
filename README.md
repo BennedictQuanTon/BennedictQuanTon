@@ -98,12 +98,18 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
         </tr>
       </table>
     </td>
+    <table width="100%" border="0" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      </td>
     <td width="50%" valign="top" align="center">
       <h3 align="center">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="./github-metrics/stats.svg" alt="GitHub Stats" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="100%" />
+      <img src="./github-metrics/top-langs.svg" alt="Top Languages" width="100%" />
     </td>
+  </tr>
+</table>
   </tr>
 </table>    
 
