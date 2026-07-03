@@ -66,6 +66,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 <table width="100%" border="0" style="border: none;">
   <tr>
+    <!-- Cột bên trái: Tech Stack -->
     <td width="50%" valign="top">
       <h3 align="center">Tech Stack</h3>
       <table>
@@ -100,5 +101,17 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       </table>
     </td>
     
+    <!-- Cột bên phải: GitHub Stats -->
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">GitHub Stats</h3>
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" width="90%" />
+      <br />
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" width="90%" />
+      <br />
+      
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="90%" />
+    </td>
   </tr>
 </table>
