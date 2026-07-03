@@ -84,7 +84,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&v=3" width="49%" />
   <br />
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6&v=2" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6&v=3" width="70%" />
 </div>
 
 
