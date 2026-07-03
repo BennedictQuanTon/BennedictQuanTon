@@ -49,9 +49,8 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="LINK_REPO_CUA_BAN">
-        <!-- LƯU Ý: THAY "TEN_REPO_CUA_BAN" ĐỂ HIỂN THỊ ĐÚNG DỰ ÁN MORPHYSICS -->
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=TEN_REPO_CUA_BAN&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
+      <a href="https://github.com/BennedictQuanTon/BackKhoaInnovation2026">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BackKhoaInnovation2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
       </a>
       <br />
       <i>Bach Khoa Innovation 2026</i>
@@ -78,16 +77,6 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-## Tech Stack
-
-*   **AI / ML / LLMs:** LangChain, LangGraph, Ollama, Nemotron 3, Qwen
-*   **Backend & Databases:** Python, FastAPI, Node.js, REST APIs, Redis, Qdrant
-*   **Frontend Development:** React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js
-*   **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-*   **Tools, Environment & Monitoring:** Git, WebSockets, Nemo Agent Toolkit, cuOpt, Grafana
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -97,3 +86,15 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" />
 </div>
+
+---
+
+## Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI / ML / LLMs** | LangChain, LangGraph, Ollama, Nemotron 3, Qwen |
+| **Backend & Databases** | Python, FastAPI, Node.js, REST APIs, Redis, Qdrant |
+| **Frontend Development** | React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Tools & Monitoring** | Git, WebSockets, Nemo Agent Toolkit, cuOpt, Grafana |
