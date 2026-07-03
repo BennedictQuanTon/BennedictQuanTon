@@ -91,46 +91,10 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ## Tech Stack
 
-<br>
-
-**AI / ML / LLMs** <br>
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Nemotron_3-0F172A?style=for-the-badge&logo=nvidia&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Qwen-0F172A?style=for-the-badge&logo=alibabadotcom&logoColor=3B82F6" />
-
-<br>
-
-**Backend & Databases** <br>
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Qdrant-0F172A?style=for-the-badge&logo=qdrant&logoColor=3B82F6" />
-
-<br>
-
-**Frontend Development** <br>
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Vanilla_JS-0F172A?style=for-the-badge&logo=javascript&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Chart.js-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=3B82F6" />
-
-<br>
-
-**Data Analytics** <br>
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logoColor=3B82F6" />
-
-<br>
-
-**Tools & Monitoring** <br>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Nemo_Agent-0F172A?style=for-the-badge&logo=nvidia&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/cuOpt-0F172A?style=for-the-badge&logo=nvidia&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Grafana-0F172A?style=for-the-badge&logo=grafana&logoColor=3B82F6" />
+| Domain | Technologies |
+| :--- | :--- |
+| **AI / ML / LLMs** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Nemotron%203-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen-1A1B27?style=for-the-badge&logo=alibabadotcom&logoColor=white" /> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-EF4056?style=for-the-badge" /> |
+| **Frontend Development** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /> |
+| **Data Analytics** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" /> |
+| **Tools & Monitoring** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nemo%20Agent-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/cuOpt-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> |
