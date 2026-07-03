@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 As an **Artificial Intelligence major** at the Joint Program between University of Technology Sydney (UTS) and Ho Chi Minh City University of Technology (HCMUT), I am an aspiring **Agentic AI Engineer** deeply passionate about the future of autonomous systems. My core technical focus lies at the intersection of Large Language Models (LLMs), Agentic AI, and the Model Context Protocol (MCP).
 
@@ -18,7 +18,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-## 🚀 Featured Quests & Projects
+##  Featured Quests & Projects
 
 ### ⛅ [WeatherRise](https://github.com/BennedictQuanTon/WeatherRise-2026) ━ *Top 10 Finalist Vietnam AI Open Hackathon*
 <img src="https://img.shields.io/badge/Qwen%203.5-1A1B27?style=flat-square&logo=alibabadotcom&logoColor=white" /> <img src="https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/MCP%20Server-4B32C3?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-EF4056?style=flat-square" />
@@ -31,7 +31,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 🤖 [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) 
+###  [BKAi Admissions System](https://github.com/BennedictQuanTon/BKAi-Admission-System) 
 <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
 > **Role: Solo Developer.** A 100% local, highly scalable multi-agent system tailored to automate university admissions consulting.
@@ -42,7 +42,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 🔬 [MorPhysics](LINK_REPO_CUA_BAN) ━ *Bach Khoa Innovation 2026*
+###  [MorPhysics](LINK_REPO_CUA_BAN) ━ *Bach Khoa Innovation 2026*
 <img src="https://img.shields.io/badge/AI%20Reasoning-000000?style=flat-square" /> <img src="https://img.shields.io/badge/System%20Modeling-0052CC?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend%20Dev-3178C6?style=flat-square" />
 
 > **Role: Team Lead & Frontend Developer.** A Virtual Lab AI platform transforming static text descriptions into dynamic, interactive physics simulations.
@@ -52,7 +52,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-### 📊 [Team Datdy](https://github.com/BennedictQuanTon/VinUni-Datathon2026) ━ *VinUni Datathon 2026*
+###  [Team Datdy](https://github.com/BennedictQuanTon/VinUni-Datathon2026) ━ *VinUni Datathon 2026*
 <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Predictive%20Modeling-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
 
 > **Role: Data Analyst.** Competed in the largest academic AI & Data Science competition organized by VinTelligence.
@@ -62,7 +62,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
-## 🧠 Skills & Stats
+##  Skills & Stats
 
 <table width="100%" border="0" style="border: none;">
 <tr>
