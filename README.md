@@ -65,53 +65,47 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## 🧠 Skills & Stats
 
 <table width="100%" border="0" style="border: none;">
-  <tr>
-    <!-- Cột bên trái: Tech Stack -->
-    <td width="50%" valign="top">
-      <h3 align="center">Tech Stack</h3>
-      <table>
-        <tr>
-          <th align="left">Domain</th>
-          <th align="left">Expertise / Technologies</th>
-        </tr>
-        <tr>
-          <td><strong>AI / ML / LLMs</strong></td>
-          <td>LangChain, LangGraph, Ollama, Nemotron 3, Qwen</td>
-        </tr>
-        <tr>
-          <td><strong>Backend & Databases</strong></td>
-          <td>Python, FastAPI, Node.js, REST APIs, Redis, Qdrant</td>
-        </tr>
-        <tr>
-          <td><strong>Frontend Development</strong></td>
-          <td>React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js</td>
-        </tr>
-        <tr>
-          <td><strong>Data Analytics</strong></td>
-          <td>Pandas, NumPy, Matplotlib, Seaborn</td>
-        </tr>
-        <tr>
-          <td><strong>Tools & Environment</strong></td>
-          <td>Git, WebSockets, Nemo Agent Toolkit, cuOpt</td>
-        </tr>
-        <tr>
-          <td><strong>Monitoring</strong></td>
-          <td>Grafana</td>
-        </tr>
-      </table>
-    </td>
-    
-    <!-- Cột bên phải: GitHub Stats -->
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">GitHub Stats</h3>
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" width="90%" />
-      <br />
-      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" width="90%" />
-      <br />
-      
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="90%" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Tech Stack</h3>
+<table>
+<tr>
+<th align="left">Domain</th>
+<th align="left">Expertise / Technologies</th>
+</tr>
+<tr>
+<td><strong>AI / ML / LLMs</strong></td>
+<td>LangChain, LangGraph, Ollama, Nemotron 3, Qwen</td>
+</tr>
+<tr>
+<td><strong>Backend & Databases</strong></td>
+<td>Python, FastAPI, Node.js, REST APIs, Redis, Qdrant</td>
+</tr>
+<tr>
+<td><strong>Frontend Development</strong></td>
+<td>React, Vite, Vanilla JS, HTML/CSS, Tailwind CSS, Chart.js</td>
+</tr>
+<tr>
+<td><strong>Data Analytics</strong></td>
+<td>Pandas, NumPy, Matplotlib, Seaborn</td>
+</tr>
+<tr>
+<td><strong>Tools & Environment</strong></td>
+<td>Git, WebSockets, Nemo Agent Toolkit, cuOpt</td>
+</tr>
+<tr>
+<td><strong>Monitoring</strong></td>
+<td>Grafana</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top" align="center">
+<h3 align="center">GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=BennedictQuanTon&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" width="90%" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" width="90%" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="90%" />
+</td>
+</tr>
 </table>
