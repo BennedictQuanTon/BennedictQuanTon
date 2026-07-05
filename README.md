@@ -29,7 +29,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       <br />
       <i>Top 10 Finalist Vietnam AI Open Hackathon</i>
       <ul style="margin-top: 5px;">
-        <li><b>Role:</b> Co-founder & Team Lead</li>
+        <li><b>Role:</b> Team Lead & AI Developer</li>
         <li><b>Tech:</b> vLLM, NVIDIA NIM, MCP Server, PostGIS</li>
         <li><b>Impact:</b> Enterprise-focused multi-agent AI system predicting domain-specific weather risks.</li>
       </ul>
@@ -41,7 +41,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       <br />
       <i>100% Local Multi-Agent System</i>
       <ul style="margin-top: 5px;">
-        <li><b>Role:</b> Solo Developer</li>
+        <li><b>Role:</b> Full-stack AI Developer</li>
         <li><b>Tech:</b> LangGraph, FastAPI, ChromaDB, Redis</li>
         <li><b>Impact:</b> < 0.1s latency via Semantic Caching; 85/100 success ratio in real-world university admission pilot tests.</li>
       </ul>
