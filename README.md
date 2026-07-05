@@ -7,15 +7,7 @@
 </div>
 
 ---
-## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&include_all_commits=true&count_private=true&cache_seconds=5" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&cache_seconds=5" width="49%" />
-  <br />
-  <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" />
-</div>
 ## About Me
 
 As an **Artificial Intelligence major** at the Joint Program between University of Technology Sydney (UTS) and Ho Chi Minh City University of Technology (HCMUT), I am an aspiring **Agentic AI Engineer** deeply passionate about the future of autonomous systems. My core technical focus lies at the intersection of Large Language Models (LLMs), Agentic AI, and the Model Context Protocol (MCP).
@@ -85,7 +77,15 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 
+## GitHub Analytics
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&include_all_commits=true&count_private=true&cache_seconds=5" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&cache_seconds=5" width="49%" />
+  <br />
+  <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" />
+</div>
 
 
 ## Tech Stack
