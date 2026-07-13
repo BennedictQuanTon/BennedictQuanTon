@@ -32,7 +32,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
         <li><b>Impact:</b> Enterprise-focused multi-agent AI system predicting domain-specific weather risks.</li>
       </ul>
     </td>
-    <<td width="50%" valign="top">
+    <td width="50%" valign="top">
   <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5&v=1" width="100%" alt="BKAI Multi-Agent System Repo Card" />
   </a>
@@ -84,6 +84,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   <br />
   <img src="https://github-readme-streak-stats-lovat-chi.vercel.app/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" alt="GitHub Streak" />
 </div>
+
 ## Tech Stack
 
 | Domain | Technologies |
