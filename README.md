@@ -21,54 +21,54 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=WeatherRise-2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="WeatherRise 2026 Repo Card" />
-      </a>
-      <br />
-      <i>Top 10 Finalist Vietnam AI Open Hackathon</i>
-      <ul style="margin-top: 5px;">
+      <h4>🌤️ <b>WeatherRise 2026</b></h4>
+      <i>Top 10 Finalist • Vietnam AI Open Hackathon</i>
+      <ul style="margin-top: 8px; padding-left: 20px;">
         <li><b>Role:</b> Team Lead & AI Developer</li>
-        <li><b>Tech:</b> vLLM, NVIDIA NIM, MCP Server, PostGIS</li>
+        <li><b>Tech:</b> <code>vLLM</code>, <code>NVIDIA NIM</code>, <code>MCP Server</code>, <code>PostGIS</code></li>
         <li><b>Impact:</b> Enterprise-focused multi-agent AI system predicting domain-specific weather risks.</li>
       </ul>
+      <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="WeatherRise 2026" />
+      </a>
     </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5&v=1" width="100%" alt="BKAI Multi-Agent System Repo Card" />
-  </a>
-  <br />
-  <i>Agentic RAG System for HCMUT Admissions</i>
-  <ul style="margin-top: 5px;">
-    <li><b>Role:</b> Full-stack AI Developer</li>
-    <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
-    <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
-  </ul>
-</td>
+      <h4>🤖 <b>BKAi Multi-Agentic RAG Admission System</b></h4>
+      <i>Agentic RAG System for HCMUT Admissions</i>
+      <ul style="margin-top: 8px; padding-left: 20px;">
+        <li><b>Role:</b> Full-stack AI Developer</li>
+        <li><b>Tech:</b> <code>LangGraph</code>, <code>Gemini 3.1</code>, <code>ChromaDB</code>, <code>Redis</code>, <code>FastAPI</code>, <code>React</code></li>
+        <li><b>Impact:</b> 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache.</li>
+      </ul>
+      <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="BKAi Multi-Agentic RAG" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="Morphysics Frontend Repo Card" />
-      </a>
-      <br />
+      <h4>🧪 <b>Morphysics Frontend</b></h4>
       <i>Bach Khoa Innovation 2026</i>
-      <ul style="margin-top: 5px;">
+      <ul style="margin-top: 8px; padding-left: 20px;">
         <li><b>Role:</b> Team Lead & Frontend Developer</li>
-        <li><b>Focus:</b> AI Reasoning, System Modeling</li>
-        <li><b>Impact:</b> Virtual Lab AI platform transforming static descriptions into interactive, feedback-driven physics setups.</li>
+        <li><b>Tech:</b> <code>React</code>, <code>Vite</code>, <code>Vanilla JS</code>, <code>Tailwind CSS</code>, <code>Chart.js</code></li>
+        <li><b>Impact:</b> Virtual Lab AI platform transforming descriptions into interactive physics setups.</li>
       </ul>
+      <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Morphysics Frontend" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="VinUni Datathon 2026 Repo Card" />
-      </a>
-      <br />
+      <h4>📊 <b>VinUni Datathon 2026</b></h4>
       <i>VinUni Datathon 2026</i>
-      <ul style="margin-top: 5px;">
+      <ul style="margin-top: 8px; padding-left: 20px;">
         <li><b>Role:</b> Data Analyst</li>
-        <li><b>Focus:</b> Predictive Modeling, Machine Learning</li>
-        <li><b>Impact:</b> Built robust predictive models extracting actionable insights for complex real-world business challenges.</li>
+        <li><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-learn</code>, <code>XGBoost</code></li>
+        <li><b>Impact:</b> Robust predictive models extracting insights for complex business challenges.</li>
       </ul>
+      <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="VinUni Datathon 2026" />
+      </a>
     </td>
   </tr>
 </table>
