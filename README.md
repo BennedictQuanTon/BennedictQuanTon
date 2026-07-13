@@ -24,7 +24,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=WeatherRise-2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=WeatherRise-2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="WeatherRise 2026 Repo Card" />
       </a>
       <br />
       <i>Top 10 Finalist Vietnam AI Open Hackathon</i>
@@ -35,22 +35,22 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       </ul>
     </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="BKAI Multi-Agent System Repo Card" />
-  </a>
-  <br />
-  <i>Agentic RAG System for HCMUT Admissions</i>
-  <ul style="margin-top: 5px;">
-    <li><b>Role:</b> Full-stack AI Developer</li>
-    <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
-    <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
-  </ul>
-</td>
+      <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="BKAI Multi-Agent System Repo Card" />
+      </a>
+      <br />
+      <i>Agentic RAG System for HCMUT Admissions</i>
+      <ul style="margin-top: 5px;">
+        <li><b>Role:</b> Full-stack AI Developer</li>
+        <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
+        <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="Morphysics Frontend Repo Card" />
       </a>
       <br />
       <i>Bach Khoa Innovation 2026</i>
@@ -62,7 +62,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="VinUni Datathon 2026 Repo Card" />
       </a>
       <br />
       <i>VinUni Datathon 2026</i>
