@@ -34,18 +34,18 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
         <li><b>Impact:</b> Enterprise-focused multi-agent AI system predicting domain-specific weather risks.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="BKAI Multi-Agent System Repo Card" />
-      </a>
-      <br />
-      <i>Agentic RAG System for HCMUT Admissions</i>
-      <ul style="margin-top: 5px;">
-        <li><b>Role:</b> Full-stack AI Developer</li>
-        <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
-        <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
-      </ul>
-    </td>
+    <<td width="50%" valign="top">
+  <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5&v=1" width="100%" alt="BKAI Multi-Agent System Repo Card" />
+  </a>
+  <br />
+  <i>Agentic RAG System for HCMUT Admissions</i>
+  <ul style="margin-top: 5px;">
+    <li><b>Role:</b> Full-stack AI Developer</li>
+    <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
+    <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
+  </ul>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
