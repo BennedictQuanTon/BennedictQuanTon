@@ -18,57 +18,66 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 
 ---
 ## Featured Quests & Projects
-<table width="100%" border="0" style="border: none;">
+
+<table width="100%" cellspacing="12" cellpadding="0" border="0" style="border:none;">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌤️ <b>WeatherRise 2026</b></h4>
-      <i>Top 10 Finalist • Vietnam AI Open Hackathon</i>
-      <ul style="margin-top: 8px; padding-left: 20px;">
-        <li><b>Role:</b> Team Lead & AI Developer</li>
-        <li><b>Tech:</b> <code>vLLM</code>, <code>NVIDIA NIM</code>, <code>MCP Server</code>, <code>PostGIS</code></li>
-        <li><b>Impact:</b> Enterprise-focused multi-agent AI system predicting domain-specific weather risks.</li>
-      </ul>
-      <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="WeatherRise 2026" />
-      </a>
+      <table width="100%" cellpadding="14" border="1" style="border-collapse:collapse; border-color:#3B82F6;">
+        <tr><td valign="top">
+          <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=WeatherRise-2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="WeatherRise 2026" />
+          </a>
+          <br/>
+          <b>Event:</b> Top 10 Finalist · Vietnam AI Open Hackathon<br/>
+          <b>Role:</b> Team Lead & AI Developer<br/>
+          <b>Tech:</b> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+          <b>Impact:</b> Enterprise multi-agent AI system for domain-specific weather risk prediction.
+        </td></tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <b>BKAi Multi-Agentic RAG Admission System</b></h4>
-      <i>Agentic RAG System for HCMUT Admissions</i>
-      <ul style="margin-top: 8px; padding-left: 20px;">
-        <li><b>Role:</b> Full-stack AI Developer</li>
-        <li><b>Tech:</b> <code>LangGraph</code>, <code>Gemini 3.1</code>, <code>ChromaDB</code>, <code>Redis</code>, <code>FastAPI</code>, <code>React</code></li>
-        <li><b>Impact:</b> 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache.</li>
-      </ul>
-      <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="BKAi Multi-Agentic RAG" />
-      </a>
+      <table width="100%" cellpadding="14" border="1" style="border-collapse:collapse; border-color:#3B82F6;">
+        <tr><td valign="top">
+          <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=1" width="100%" alt="BKAI Multi-Agent System" />
+          </a>
+          <br/>
+          <b>Event:</b> Agentic RAG System · HCMUT Admissions<br/>
+          <b>Role:</b> Full-stack AI Developer<br/>
+          <b>Tech:</b> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+          <b>Impact:</b> 96.8% accuracy; &lt;0.05s latency via Semantic Cache; hybrid search & telemetry.
+        </td></tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧪 <b>Morphysics Frontend</b></h4>
-      <i>Bach Khoa Innovation 2026</i>
-      <ul style="margin-top: 8px; padding-left: 20px;">
-        <li><b>Role:</b> Team Lead & Frontend Developer</li>
-        <li><b>Tech:</b> <code>React</code>, <code>Vite</code>, <code>Vanilla JS</code>, <code>Tailwind CSS</code>, <code>Chart.js</code></li>
-        <li><b>Impact:</b> Virtual Lab AI platform transforming descriptions into interactive physics setups.</li>
-      </ul>
-      <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Morphysics Frontend" />
-      </a>
+      <table width="100%" cellpadding="14" border="1" style="border-collapse:collapse; border-color:#3B82F6;">
+        <tr><td valign="top">
+          <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="Morphysics Frontend" />
+          </a>
+          <br/>
+          <b>Event:</b> Bach Khoa Innovation 2026<br/>
+          <b>Role:</b> Team Lead & Frontend Developer<br/>
+          <b>Tech:</b> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" /><br/>
+          <b>Impact:</b> Virtual Lab AI platform turning descriptions into interactive physics setups.
+        </td></tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <b>VinUni Datathon 2026</b></h4>
-      <i>VinUni Datathon 2026</i>
-      <ul style="margin-top: 8px; padding-left: 20px;">
-        <li><b>Role:</b> Data Analyst</li>
-        <li><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-learn</code>, <code>XGBoost</code></li>
-        <li><b>Impact:</b> Robust predictive models extracting insights for complex business challenges.</li>
-      </ul>
-      <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="VinUni Datathon 2026" />
-      </a>
+      <table width="100%" cellpadding="14" border="1" style="border-collapse:collapse; border-color:#3B82F6;">
+        <tr><td valign="top">
+          <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="VinUni Datathon 2026" />
+          </a>
+          <br/>
+          <b>Event:</b> VinUni Datathon 2026<br/>
+          <b>Role:</b> Data Analyst<br/>
+          <b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" /><br/>
+          <b>Impact:</b> Robust predictive models extracting insights for complex business challenges.
+        </td></tr>
+      </table>
     </td>
   </tr>
 </table>
