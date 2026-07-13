@@ -36,7 +36,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/BKAi-Admission-System">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
       </a>
       <br />
       <i>100% Local Multi-Agent System</i>
