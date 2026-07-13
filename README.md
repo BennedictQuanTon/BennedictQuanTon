@@ -17,7 +17,6 @@ My primary goal is embedding intelligent, agentic systems into existing applicat
 I am constantly exploring new paradigms in AI and software architecture, and I am always open to connecting with forward-thinking professionals, engineers, and companies who are building the next generation of intelligent tech.
 
 ---
-
 ## Featured Quests & Projects
 <table width="100%" border="0" style="border: none;">
   <tr>
