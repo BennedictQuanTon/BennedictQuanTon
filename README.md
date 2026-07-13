@@ -35,17 +35,17 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       </ul>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" />
-      </a>
-      <br />
-      <i>100% Local Multi-Agent System</i>
-      <ul style="margin-top: 5px;">
-        <li><b>Role:</b> Full-stack AI Developer</li>
-        <li><b>Tech:</b> LangGraph, FastAPI, ChromaDB, Redis</li>
-        <li><b>Impact:</b> < 0.1s latency via Semantic Caching; 85/100 success ratio in real-world university admission pilot tests.</li>
-      </ul>
-    </td>
+  <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=3B82F6&border_radius=5" width="100%" alt="BKAI Multi-Agent System Repo Card" />
+  </a>
+  <br />
+  <i>Agentic RAG System for HCMUT Admissions</i>
+  <ul style="margin-top: 5px;">
+    <li><b>Role:</b> Full-stack AI Developer</li>
+    <li><b>Tech:</b> LangGraph, Gemini 3.1, ChromaDB, Redis, FastAPI, React</li>
+    <li><b>Impact:</b> Achieved 96.8% accuracy; reduced latency to &lt; 0.05s via Semantic Cache; integrated hybrid search & real-time telemetry.</li>
+  </ul>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
