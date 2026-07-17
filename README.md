@@ -24,40 +24,48 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/WeatherRise-2026">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=WeatherRise-2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="WeatherRise 2026" />
-      </a><br/><br/>
-      <b>Event:</b> Top 10 Finalist · Vietnam AI Open Hackathon<br/>
-      <b>Role:</b> Team Lead & AI Developer<br/>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <b>Impact:</b> Enterprise multi-agent AI system for domain-specific weather risk prediction.
+      </a>
+      <ul>
+        <li><b>Event:</b> Top 10 Finalist · Vietnam AI Open Hackathon</li>
+        <li><b>Role:</b> Team Lead & AI Developer</li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" /></li>
+        <li><b>Impact:</b> Enterprise multi-agent AI system for domain-specific weather risk prediction.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/BKAi-Multi-Agentic-RAG-Admission-System">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=BKAi-Multi-Agentic-RAG-Admission-System&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=1" width="100%" alt="BKAI Multi-Agent System" />
-      </a><br/><br/>
-      <b>Event:</b> Agentic RAG System · HCMUT Admissions<br/>
-      <b>Role:</b> Full-stack AI Developer<br/>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <b>Impact:</b> 96.8% accuracy; &lt;0.05s latency via Semantic Cache; hybrid search & telemetry.
+      </a>
+      <ul>
+        <li><b>Event:</b> Agentic RAG System · HCMUT Admissions</li>
+        <li><b>Role:</b> Full-stack AI Developer</li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/ChromaDB-3B82F6?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /></li>
+        <li><b>Impact:</b> 96.8% accuracy; &lt;0.05s latency via Semantic Cache; hybrid search & telemetry.</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/Develarper_AMD-Developer-Hackathon-ACT-II">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Develarper_AMD-Developer-Hackathon-ACT-II&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="AMD AI Developer Hackathon" />
-      </a><br/><br/>
-      <b>Event:</b> AMD AI Developer Hackathon 2026<br/>
-      <b>Role:</b> AI Agent Developer<br/>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen2.5-4A4A4A?style=flat-square" /> <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <b>Impact:</b> Built a 4-layer token-efficient hybrid routing agent optimizing API costs with 93% accuracy.
+      </a>
+      <ul>
+        <li><b>Event:</b> AMD AI Developer Hackathon 2026</li>
+        <li><b>Role:</b> AI Agent Developer</li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Qwen2.5-4A4A4A?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" align="absmiddle" /></li>
+        <li><b>Impact:</b> Built a 4-layer token-efficient hybrid routing agent optimizing API costs with 93% accuracy.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Datdy E-commerce" />
-      </a><br/><br/>
-      <b>Event:</b> VinUni Datathon 2026<br/>
-      <b>Role:</b> Data Scientist<br/>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CatBoost-FFC300?style=flat-square" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" /> <img src="https://img.shields.io/badge/Prophet-2381C6?style=flat-square" /> <img src="https://img.shields.io/badge/TabNet-EE4C2C?style=flat-square" /><br/>
-      <b>Impact:</b> Designed a Stacking Ensemble model for seasonal revenue forecasting (R2=0.84) to optimize E-commerce profit margins.
+      </a>
+      <ul>
+        <li><b>Event:</b> VinUni Datathon 2026</li>
+        <li><b>Role:</b> Data Scientist</li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/CatBoost-FFC300?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Prophet-2381C6?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/TabNet-EE4C2C?style=flat-square" align="absmiddle" /></li>
+        <li><b>Impact:</b> Designed a Stacking Ensemble model for seasonal revenue forecasting (R2=0.84) to optimize E-commerce profit margins.</li>
+      </ul>
     </td>
   </tr>
 </table>
