@@ -52,7 +52,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0" width="100%" alt="Datdy E-commerce" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Datdy E-commerce" />
       </a><br/><br/>
       <b>Event:</b> VinUni Datathon 2026<br/>
       <b>Role:</b> Data Scientist<br/>
