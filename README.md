@@ -87,7 +87,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Develarper_Viettel_AI_Race_2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Viettel AI Race 2026 Challenge 3" />
   </a>
   <ul>
-    <li><b>Event:</b> Viettel AI Race 2026 — Challenge 3</li>
+    <li><b>Event:</b> Viettel AI Race 2026 </li>
     <li><b>Role:</b> AI/LLM Optimization Engineer</li>
     <li><b>Tech:</b> 
       <img src="https://img.shields.io/badge/vLLM-0080FF?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> 
