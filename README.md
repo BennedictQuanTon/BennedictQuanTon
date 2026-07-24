@@ -123,5 +123,4 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 | **Tools & Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=google&logoColor=white" /> |
 
 
----
 
