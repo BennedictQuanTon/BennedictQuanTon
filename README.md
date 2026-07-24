@@ -67,15 +67,22 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Datdy E-commerce" />
-      </a>
-      <ul>
-        <li><b>Event:</b> VinUni Datathon 2026</li>
-        <li><b>Role:</b> Data Scientist</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/CatBoost-FFC300?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Prophet-2381C6?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/TabNet-EE4C2C?style=flat-square" align="absmiddle" /></li>
-      </ul>
-    </td>
+  <a href="https://github.com/BennedictQuanTon/Morphysics---Frontend">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Morphysics Frontend" />
+  </a>
+  <ul>
+    <li><b>Project:</b> Morphysics — Interactive 2D Physics Simulation</li>
+    <li><b>Role:</b> Frontend Engineer / Project Lead</li>
+    <li><b>Tech:</b> 
+      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Tailwind_CSS_3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Matter.js-4B5563?style=flat-square" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" align="absmiddle" />
+    </li>
+  </ul>
+</td>
     <td width="50%" valign="top">
       <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Datdy E-commerce" />
