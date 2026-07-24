@@ -71,8 +71,8 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Morphysics Frontend" />
   </a>
   <ul>
-    <li><b>Project:</b> Morphysics — Interactive 2D Physics Simulation</li>
-    <li><b>Role:</b> Frontend Engineer / Project Lead</li>
+    <li><b>Project:</b> BachKhoa Innovation 2026 - Top 50 teams</li>
+    <li><b>Role:</b> Project Lead / Frontend Engineer </li>
     <li><b>Tech:</b> 
       <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> 
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> 
