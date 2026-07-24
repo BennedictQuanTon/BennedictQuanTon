@@ -72,7 +72,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
   </a>
   <ul>
     <li><b>Event:</b> BachKhoa Innovation 2026 </li>
-    <li><b>Role:</b> Project Lead / Frontend Engineer </li>
+    <li><b>Role:</b> Project Lead & Frontend Engineer </li>
     <li><b>Tech:</b> 
       <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> 
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> 
