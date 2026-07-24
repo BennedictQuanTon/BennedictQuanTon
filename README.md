@@ -106,7 +106,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=54" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=58" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
   <br />
   <br />
@@ -121,7 +121,3 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 | **Machine Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge" /> |
 | **Backend & Databases** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-3B82F6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Qdrant-EF4056?style=for-the-badge&logo=qdrant&logoColor=white" /> |
 | **Tools & Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=google&logoColor=white" /> |
-
-
-
-
