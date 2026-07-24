@@ -27,7 +27,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
       </a>
       <ul>
         <li><b>Event:</b> Top 10 Finalist · Vietnam AI Open Hackathon</li>
-        <li><b>Role:</b> Team Lead & AI Developer</li>
+        <li><b>Role:</b> Project Lead & AI Developer</li>
         <li><b>Tech:</b> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
