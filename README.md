@@ -9,6 +9,9 @@ I am an aspiring **AI Engineer** deeply passionate about the future of autonomou
 My primary goal is embedding intelligent, agentic systems into existing applications—particularly within the economic and engineering sectors. I thrive on architecting solutions that help companies seamlessly transition their traditional software ecosystems into dynamic, Agentic AI-driven platforms.
 
 I am constantly exploring new paradigms in AI and software architecture, and I am always open to connecting with forward-thinking professionals, engineers, and companies who are building the next generation of intelligent tech.
+
+---
+
 ## Featured Quests & Projects
 
 <table width="100%">
