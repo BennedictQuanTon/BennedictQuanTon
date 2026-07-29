@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15803d,22c55e,86efac&height=200&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20Major&descSize=22&animation=twinkling&v=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15803d,22c55e,86efac&height=200&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20Major&descSize=22&animation=twinkling&v=3" width="100%" />
 </div>
 
 ## About Me
@@ -101,7 +101,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=81" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=82" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
   <br />
   <br />
