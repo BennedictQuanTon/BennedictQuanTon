@@ -1,20 +1,17 @@
+<!-- ===== HERO BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4f46e5,06b6d4,3b82f6&height=250&section=header&text=Long%20Quan%20Ton&fontSize=70&fontAlignY=40&desc=Aspiring%20Agentic%20AI%20Engineer%20%7C%20AI%20Major&descSize=22&animation=twinkling" width="100%" />
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Undergrad+%40+UTS+%26+HCMUT;Aspiring+Agentic+AI+Engineer;Building+Autonomous+Systems;" alt="Typing SVG" />
-  </a>
+  <!-- Nếu dùng 1 ảnh chung cho cả Dark/Light mode -->
+  <img src="./banner.png" alt="Long Quan Ton - Agentic AI Engineer" width="100%" />
+
+  <!-- HOẶC nếu bạn tách ra 2 bản Dark / Light riêng (xóa đoạn trên, dùng đoạn dưới): -->
+  <!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+    <img alt="Long Quan Ton" src="./banner-light.svg" width="100%">
+  </picture>
+  -->
 </div>
-
----
-
-## About Me
-
-I am an aspiring **Agentic AI Engineer** deeply passionate about the future of autonomous systems. My core technical focus lies at the intersection of Large Language Models (LLMs), Agentic AI, and the Model Context Protocol (MCP).
-
-My primary goal is embedding intelligent, agentic systems into existing applications—particularly within the economic and engineering sectors. I thrive on architecting solutions that help companies seamlessly transition their traditional software ecosystems into dynamic, Agentic AI-driven platforms. 
-
-I am constantly exploring new paradigms in AI and software architecture, and I am always open to connecting with forward-thinking professionals, engineers, and companies who are building the next generation of intelligent tech.
 
 ---
 ## Featured Quests & Projects
