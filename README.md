@@ -101,7 +101,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=142" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=143" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
    <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" alt="GitHub Streak" />
   <br />
