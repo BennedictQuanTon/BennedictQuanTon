@@ -66,17 +66,19 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Morphysics---Frontend&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Morphysics Frontend" />
   </a>
   <ul>
-    <li><b>Event:</b> BachKhoa Innovation 2026 </li>
-    <li><b>Role:</b> Project Lead & Frontend Engineer </li>
-    <li><b>Tech:</b> 
-      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/Tailwind_CSS_3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/Matter.js-4B5563?style=flat-square" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" align="absmiddle" />
-    </li>
-  </ul>
+  <li><b>Event:</b> AssemblyAI Voice Agent Hackathon</li>
+  <li><b>Role:</b> Project Lead & AI Engineer</li>
+  <li><b>Tech:</b> 
+    <img src="https://img.shields.io/badge/AssemblyAI-Streaming_ASR-blue?style=flat-square" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/Qwen-Local_LLM-orange?style=flat-square" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/Ollama-Inference-black?style=flat-square&logo=ollama&logoColor=white" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/Kokoro--82M-TTS-green?style=flat-square" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" />
+  </li>
+</ul>
 <td width="50%" valign="top">
   <a href="https://github.com/BennedictQuanTon/Develarper_Viettel_AI_Race_2026">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Develarper_Viettel_AI_Race_2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Viettel AI Race 2026 Challenge 3" />
