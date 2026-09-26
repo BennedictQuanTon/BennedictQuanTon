@@ -4,11 +4,11 @@
 
 ## About Me
 
-I am an aspiring **AI Engineer** deeply passionate about the future of autonomous systems. My core technical focus lies at the intersection of Large Language Models (LLMs), Agentic AI, and the Model Context Protocol (MCP).
+I am an **AI Engineer Intern** and **Undergraduate AI Research Assistant** at **HCMUT (AITechLab - ML4U)**, deeply passionate about building scalable, production-grade intelligent systems. My technical focus lies at the intersection of **Agentic AI**, **Speech Recognition (ASR)**, **Real-Time Voice Agents**, and **LLM/SLM Inference optimization**, backed by a solid foundation in Applied Machine Learning and Cloud infrastructure.
 
-My primary goal is embedding intelligent, agentic systems into existing applications—particularly within the economic and engineering sectors. I thrive on architecting solutions that help companies seamlessly transition their traditional software ecosystems into dynamic, Agentic AI-driven platforms.
+My primary goal is designing **enterprise-ready agentic workflows**, **advanced RAG architectures**, and **robust tool/function-calling pipelines**. Alongside engineering, my research investigates speech model mechanisms, benchmarking low-latency **TTS/STT systems**, and optimizing on-device inference for **Small Language Models (SLMs)**. Across both research and implementation, I thrive on **optimizing token economy**, **minimizing latency**, and **maximizing task accuracy** to translate cutting-edge model capabilities into real-world impact.
 
-I am constantly exploring new paradigms in AI and software architecture, and I am always open to connecting with forward-thinking professionals, engineers, and companies who are building the next generation of intelligent tech.
+I am constantly exploring emerging paradigms in AI and software architecture, and I am always open to connecting with forward-thinking **engineers, researchers, and tech leaders** who are shaping the next generation of intelligent technology.
 
 ---
 
@@ -101,7 +101,7 @@ I am constantly exploring new paradigms in AI and software architecture, and I a
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=241" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=242" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
   <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" alt="GitHub Streak" />
 
