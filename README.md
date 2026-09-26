@@ -54,7 +54,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=AuraLens&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="AuraLens" />
   </a>
   <ul>
-    <li><b>Event:</b> Silver Tier - Google AI Riser 2026 (Build with Google AI Hackathon)</li>
+    <li><b>Event:</b> Silver Tier - Google AI Riser 2026</li>
     <li><b>Role:</b> AI Developer</li>
     <li><b>Tech:</b> 
       <img src="https://img.shields.io/badge/Gemini_3.5_Flash-FF007F?style=flat-square&logo=google&logoColor=white" align="absmiddle" /> 
