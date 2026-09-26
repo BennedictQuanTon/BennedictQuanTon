@@ -48,17 +48,23 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
         <li><b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Qwen2.5-4A4A4A?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/VinUni-Datathon2026">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=VinUni-Datathon2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Datdy E-commerce" />
-      </a>
-      <ul>
-        <li><b>Event:</b> VinUni Datathon 2026</li>
-        <li><b>Role:</b> Data Scientist</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/CatBoost-FFC300?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Prophet-2381C6?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/TabNet-EE4C2C?style=flat-square" align="absmiddle" /></li>
-      </ul>
-    </td>
-    </td>
+<td width="50%" valign="top">
+  <a href="https://github.com/BennedictQuanTon/AuraLens">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=AuraLens&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="AuraLens" />
+  </a>
+  <ul>
+    <li><b>Event:</b> Silver Tier - Google AI Riser 2026 (Build with Google AI Hackathon)</li>
+    <li><b>Role:</b> AI Developer</li>
+    <li><b>Tech:</b> 
+      <img src="https://img.shields.io/badge/Gemini_3.5_Flash-FF007F?style=flat-square&logo=google&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" align="absmiddle" />
+    </li>
+  </ul>
+</td>
 </tr>
   <tr>
 <td width="50%" valign="top">
@@ -80,7 +86,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
     </li>
   </ul>
 </td>
-```[cite: 3, 4]
+
 <td width="50%" valign="top">
   <a href="https://github.com/BennedictQuanTon/Develarper_Viettel_AI_Race_2026">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=Develarper_Viettel_AI_Race_2026&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=2" width="100%" alt="Viettel AI Race 2026 Challenge 3" />
