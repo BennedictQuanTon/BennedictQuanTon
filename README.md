@@ -81,10 +81,6 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       <img src="https://img.shields.io/badge/Qwen-Local_LLM-orange?style=flat-square" align="absmiddle" /> 
       <img src="https://img.shields.io/badge/Ollama-Inference-black?style=flat-square&logo=ollama&logoColor=white" align="absmiddle" /> 
       <img src="https://img.shields.io/badge/Kokoro--82M-TTS-green?style=flat-square" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" />
     </li>
   </ul>
 </td>
