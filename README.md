@@ -33,7 +33,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       <ul>
         <li><b>Event:</b> Personal Project</li>
         <li><b>Role:</b> Full-stack AI Developer</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/ChromaDB-3B82F6?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /></li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
   </tr>
@@ -108,7 +108,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=258" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=259" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
   <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" alt="GitHub Streak" />
 
