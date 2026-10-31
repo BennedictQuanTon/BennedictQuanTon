@@ -23,7 +23,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       <ul>
         <li><b>Event:</b> Top 3 Overall · Sea × OpenAI Regional Codex Hackathon 2026</li>
         <li><b>Role:</b> Product Manager & AI Engineer</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/GPT--Live--1-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/GPT--6.1_Terra-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" align="absmiddle" /></li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/GPT--Live--1-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/GPT--6.1_Terra-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/GPT_Transcribe-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Structured_Outputs-10A37F?style=flat-square&logo=openai&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Voice_Agent-F05A00?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Kokoro--82M-TTS-green?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -32,8 +32,8 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       </a>
       <ul>
         <li><b>Event:</b> Top 6 SGS Official Leaderboard · RMIT Hackathon 2026</li>
-        <li><b>Role:</b> AI & Full-stack Developer</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/TideCloak-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" align="absmiddle" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /></li>
+        <li><b>Role:</b> Product Manager</li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/TideCloak-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/E2E_Encryption-0F766E?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Quorum_Governance-4338CA?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/DPoP-374151?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Tide_MCP-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Kokoro--82M-TTS-green?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" align="absmiddle" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
   </tr>
@@ -45,7 +45,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       <ul>
         <li><b>Event:</b> Top 10 Finalist · Vietnam AI Open Hackathon</li>
         <li><b>Role:</b> Project Lead & AI Developer</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" /></li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square&logo=langchain&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Qwen_3.5_27B-4A4A4A?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/vLLM-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Nemotron--3_Super-76B900?style=flat-square&logo=nvidia&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/MCP_Server-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Qdrant_RAG-DC2626?style=flat-square&logo=qdrant&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -82,6 +82,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
     </td>
   </tr>
 </table>
+
 
 
 ## GitHub Analytics
