@@ -82,7 +82,8 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
     </td>
   </tr>
 </table>
----
+
+
 ## GitHub Analytics
 
 <div align="center">
