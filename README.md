@@ -32,7 +32,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
       </a>
       <ul>
         <li><b>Event:</b> Top 6 SGS Official Leaderboard · RMIT Hackathon 2026</li>
-        <li><b>Role:</b> Product Manager</li>
+        <li><b>Role:</b> Product Manager & AI Engineer</li>
         <li><b>Tech:</b> <img src="https://img.shields.io/badge/TideCloak-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/E2E_Encryption-0F766E?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Quorum_Governance-4338CA?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/DPoP-374151?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Tide_MCP-191919?style=flat-square&logo=anthropic&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Kokoro--82M-TTS-green?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" align="absmiddle" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
@@ -88,7 +88,7 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=313" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BennedictQuanTon&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=777777&v=314" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BennedictQuanTon&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" width="49%" alt="Top Languages" />
   <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=BennedictQuanTon&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6" width="70%" alt="GitHub Streak" />
 
