@@ -61,13 +61,13 @@ I am constantly exploring emerging paradigms in AI and software architecture, an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/BennedictQuanTon/IGNIS---AMD-Developer-Hackathon-ACT-II">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=IGNIS---AMD-Developer-Hackathon-ACT-II&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=3" width="100%" alt="IGNIS" />
+      <a href="https://github.com/BennedictQuanTon/RoomSet-Meta-Global-AI-Developer-Hackathon">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BennedictQuanTon&repo=RoomSet-Meta-Global-AI-Developer-Hackathon&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=777777&border_color=00000000&border_radius=0&v=3" width="100%" alt="RoomSet" />
       </a>
       <ul>
-        <li><b>Event:</b> AMD Developer Hackathon: ACT III</li>
+        <li><b>Event:</b> Meta Global AI Developer Hackathon</li>
         <li><b>Role:</b> AI Engineer</li>
-        <li><b>Tech:</b> <img src="https://img.shields.io/badge/AMD_Radeon_Cloud-ED1C24?style=flat-square&logo=amd&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" align="absmiddle" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" align="absmiddle" /></li>
+        <li><b>Tech:</b> <img src="https://img.shields.io/badge/Muse_Spark-0467DF?style=flat-square&logo=meta&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Muse_Image-0467DF?style=flat-square&logo=meta&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" align="absmiddle" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" align="absmiddle" /> <img src="https://img.shields.io/badge/Modal-1A1B27?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/VGGT-4A4A4A?style=flat-square" align="absmiddle" /> <img src="https://img.shields.io/badge/AR_Quick_Look-000000?style=flat-square&logo=apple&logoColor=white" align="absmiddle" /></li>
       </ul>
     </td>
     <td width="50%" valign="top">
