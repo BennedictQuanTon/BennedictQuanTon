@@ -1,0 +1,5 @@
+# Ignore every markdown file except the profile README
+*.md
+!README.md
+CLAUDE.md
+.claude/
